@@ -10,7 +10,7 @@ co-op's current buying price.
 
 ## Setup and run
 
-1. Keep `dairy_calculator.py` and `price.txt` in the same folder.
+1. Keep ` Kiambu dairy_calculator.py` and `price.txt` in the same folder.
 2. Ensure `price.txt` contains only the current price per litre, for example:
 
    ```text
@@ -23,7 +23,7 @@ co-op's current buying price.
    python dairy_calculator.py
    ```
 
-   On some systems, use `python3 dairy_calculator.py` instead.
+   On some systems, use `python3 Kiambu_dairy_calculator.py` instead.
 
 The co-op manager can update the weekly rate by changing the number in
 `price.txt`. The price must be a valid number greater than zero.

@@ -1,0 +1,3 @@
+The Kiambu Dairy Co-op Payment Calculator is ready. 
+It calculates farmer payments using the current weekly rate in price.txt.
+ Setup instructions and an example are included in the README. The v1.0 release is available on GitHub.
