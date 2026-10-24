@@ -15,10 +15,8 @@ I’ll build a simple, easy-to-run calculator that uses a weekly price you can u
 - Setup instructions and example output
 
 **Price and timeline**  
-Fixed price: **KES 8,000**. Delivery by the end of the week, following approval and receipt of the upfront payment.
-
-**Payment terms**  
-50% upfront (**KES 4,000**); the remaining 50% (**KES 4,000**) is due within two working days of delivery.
+Fixed price: **KES 8,000**. 50% upfront (**KES 4,000**); the remaining 50% (**KES 4,000**). Delivery by the end of the 6 working days, following approval and receipt of the upfront payment.
+ 
 
 **Call to action**  
 Reply to approve the proposal, and I’ll get started.
